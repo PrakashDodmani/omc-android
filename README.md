@@ -1,5 +1,8 @@
 # Oracle Marketing Cloud SDK for Android
 
+## Documentation
+* [Integration Guide](https://docs.oracle.com/cloud/latest/marketingcs_gs/OMCFB/android/)
+
 ## Contact
 * Support: [My Oracle Support] (http://support.oracle.com)
 
